@@ -1,0 +1,45 @@
+\name{beq.lin.dimensionless}
+\alias{beq.lin.dimensionless}
+\title{Analytic exact solution for Dimentionless (i. e. diffusivity equal to 1 - unity) One Dimensional Heat Equation in a two-bounded domain with two constant-value Dirichlet Conditions}
+\usage{
+  beq.lin.dimensionless(t = 0,
+    x = seq(from = 0, to = L, by = by), big = 1e+05,
+    by = L * 0.01, L = 1)
+}
+\arguments{
+  \item{t}{time coordinate.}
+
+  \item{x}{spatial coordinate. Default is
+  \code{seq(from=0,to=L,by=by)}.}
+
+  \item{big}{maximum level of Fourier series considered.
+  Default is 100000.}
+
+  \item{by}{see \code{\link{seq}}}
+
+  \item{L}{length of the domain.  It is used if \code{x} is
+  not specified.}
+}
+\value{
+  Solutions for the specificied values of \code{x} and
+  \code{t}
+}
+\description{
+  Analytic exact solution for Dimentionless (i. e.
+  diffusivity equal to 1 - unity) One Dimensional Heat
+  Equation in a two-bounded domain with two constant-value
+  Dirichlet Conditions
+}
+\author{
+  Emanuele Cordano
+}
+\references{
+  Rozier-Cannon, J. (1984), The One-Dimensional Heat
+  Equation, Addison-Wesley Publishing Company, Manlo Park,
+  California, encyclopedia of Mathematics and its
+  applications.
+}
+\seealso{
+  \code{\link{beq.lin}}
+}
+
