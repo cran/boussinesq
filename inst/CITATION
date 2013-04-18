@@ -1,0 +1,36 @@
+citHeader(sprintf("To cite package '%s' in publications use",meta$Package))
+
+
+
+bibentry(bibtype = "Manual",
+         key = "boussinesq_manual",
+         title = "boussinesq: Analytic Solutions for (ground-water) Boussinesq Equation",
+         author = person(given = "Emanuele",
+                         family = "Cordano"),
+         year = "2013",
+         note = "R package version 1.0.3",
+         url = "http://CRAN.R-project.org/package=boussinesq")
+
+bibentry(bibtype = "Article",
+         key = "WRCR:WRCR20072",
+         author = c(person(given = "E.",
+                           family = "Cordano"),
+                    person(given = "R.",
+                           family = "Rigon")),
+         title = "A mass-conservative method for the integration of the two-dimensional groundwater (Boussinesq) equation",
+         journal = "Water Resources Research",
+         volume = "49",
+         number = "2",
+         issn = "1944-7973",
+         url = "http://dx.doi.org/10.1002/wrcr.20072",
+         doi = "10.1002/wrcr.20072",
+         pages = "1058--1078",
+         keywords = "groundwater, Boussinesq equation, subsurface hydrology, hillslope hydrology, soil water subsurface flow, finite volume methods",
+         year = "2013")
+
+
+
+citFooter(sprintf("For BibTex versions of citations use: toBibtex(citation('%s'))",meta$Package))
+
+
+
