@@ -1,9 +1,9 @@
 NULL 
 #'
-#' Alogoritm for resolution of the series coefficient \eqn{a_n} for the dimensionless formula for \eqn{H} in \code{\link{beq.song.dimensionless}}
+#' Alogorithm for resolution of the series coefficient \eqn{a_n} for the dimensionless formula for \eqn{H} in \code{\link{beq.song.dimensionless}}
 #' 
-#' @param n approcimation order 
-#' @param lambda dimensionless parameter releted to \eqn{\alpha} see Song at al, 2007 
+#' @param n approximation order 
+#' @param lambda dimensionless parameter related to \eqn{\alpha} see Song at al, 2007 
 #' 
 #' 
 #' @return the \eqn{a_n} series coefficient 
@@ -11,7 +11,7 @@ NULL
 #' @note For major details, see Song at al, 2007
 #' 
 #' @references Song, Zhi-yao;Li, Ling;David, Lockington. (2007), "Note on Barenblatt power series solution to Boussinesq equation",Applied Mathematics and Mechanics,
-#' \url{http://www.springerlink.com/content/w0u8667772712801/} ,\url{http://dx.doi.org/10.1007/s10483-007-0612-x}
+#' \url{https://link.springer.com/article/10.1007/s10483-007-0612-x} ,\doi{10.1007/s10483-007-0612-x}
 #' 
 #' @export
 #' @author Emanuele Cordano

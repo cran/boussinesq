@@ -8,7 +8,7 @@ NULL
 #' @param by see \code{\link{seq}}
 #' @param L length of the domain.  It is used if \code{x} is not specified.
 #' 
-#' @return  Solutions for the specificied values of  \code{x} and \code{t}
+#' @return  Solutions for the specifiied values of  \code{x} and \code{t}
 #' 
 #' @references Rozier-Cannon, J. (1984), The One-Dimensional Heat Equation, Addison-Wesley Publishing Company, Manlo Park, California, encyclopedia of Mathematics and its applications.
 #' 

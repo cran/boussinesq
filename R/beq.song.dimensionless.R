@@ -19,7 +19,7 @@ NULL
 #' @seealso \code{\link{beq.song}}
 #' @export 
 #' @references Song, Zhi-yao;Li, Ling;David, Lockington. (2007), "Note on Barenblatt power series solution to Boussinesq equation",Applied Mathematics and Mechanics,
-#' \url{http://www.springerlink.com/content/w0u8667772712801/} ,\url{http://dx.doi.org/10.1007/s10483-007-0612-x}
+#' \url{https://link.springer.com/article/10.1007/s10483-007-0612-x} ,\doi{10.1007/s10483-007-0612-x}
  
 
 #
