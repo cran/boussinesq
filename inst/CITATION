@@ -7,10 +7,10 @@ bibentry(bibtype = "Manual",
          title = "boussinesq: Analytic Solutions for (ground-water) Boussinesq Equation",
          author = person(given = "Emanuele",
                          family = "Cordano"),
-         year = "2022",
-         note = "R package version 1.0.x",
+         year = "2023",
+         note = "R package version 1.x.x",
          url = "https://CRAN.R-project.org/package=boussinesq",
-         doi ="10.5281/zenodo.7056913"
+         doi ="10.5281/zenodo.8273197"
          )
 
 

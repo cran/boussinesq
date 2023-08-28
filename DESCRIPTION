@@ -1,6 +1,6 @@
 Package: boussinesq
 Maintainer: Emanuele Cordano <emanuele.cordano@gmail.com>
-License: GPL (>= 2)
+License: GPL (>= 3)
 Title: Analytic Solutions for (Ground-Water) Boussinesq Equation
 Type: Package
 Depends: R (>= 2.10)
@@ -16,14 +16,12 @@ Description: A collection of R functions were implemented
         2007, see complete reference on function documentation).
         Bugs/comments/questions/collaboration of any kind are warmly
         welcomed.
-Version: 1.0.4
+Version: 1.0.6
 Repository: CRAN
-Date: 2022-09-06
-URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/wrcr.20072
-Collate: 'beq.lin.dimensionless.R' 'beq.lin.R'
-        'beq.song.dimensionless.R' 'beq.song.R' 'boussinesq-package.R'
-        'coefficient.song.solution.R'
-Packaged: 2022-09-12 08:38:03 UTC; ecor
+Date: 2023-08-21
+URL:
+        https://github.com/ecor/boussinesq,https://agupubs.onlinelibrary.wiley.com/doi/10.1002/wrcr.20072
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Date/Publication: 2022-09-12 09:12:56 UTC
-RoxygenNote: 7.1.2
+Packaged: 2023-08-28 14:28:00 UTC; ecor
+Date/Publication: 2023-08-28 16:00:07 UTC

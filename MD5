@@ -1,14 +1,14 @@
-91832cd27e1ceb8d83ed23329586bcd5 *DESCRIPTION
+4d30abdc067be647bf5c50739578649b *DESCRIPTION
 3fe44b59e8b99c90d7a234d96ab57e4a *NAMESPACE
 bc38b37a0c2c2d00ebc7581a959264ee *R/beq.lin.R
 d88e370850159e972d2952faa44f0beb *R/beq.lin.dimensionless.R
 368e01d3f2070d697ad16c14fb808eab *R/beq.song.R
 15a4b16f0140a04f332f2b650f829f38 *R/beq.song.dimensionless.R
-7794e614142f59471948e42c3f1b2034 *R/boussinesq-package.R
+977899fbc16d7f185680151ae0be7729 *R/boussinesq-package.R
 7399e33a53a18f6fd8039fac08c6fd73 *R/coefficient.song.solution.R
-84788cd69a1a1895d375b5c3d7a43406 *README.md
-aa4136280bdc3569cc7a1061af646300 *build/partial.rdb
-c1a71ab665e39e7a8e533ca48575b741 *inst/CITATION
+d81479f74bdda0564b1d9c1a48dc3889 *README.md
+439bf689fa27cf9affd0335332142165 *build/partial.rdb
+48deef2f6192312d9e62009ef687b44a *inst/CITATION
 30308ae41bb86b12c89a764411bfccfd *inst/REFERENCES.bib
 04c8fbaf005f406a19566f0fdb3a32bd *inst/example1.R
 4afe940b0391bae8f05708726790cebd *inst/example2.R
@@ -16,5 +16,5 @@ dae043c0e5aca7af65a18cad9b574c8d *man/beq.lin.Rd
 2c9ec745da2bb4662288b74d7be5d0c6 *man/beq.lin.dimensionless.Rd
 602b49484fa92455e0e9702c3cc22c9e *man/beq.song.Rd
 4cb1faabd5983a453aa506085cec3180 *man/beq.song.dimensionless.Rd
-b7afc7eb16185acd77f0f02dac6847f8 *man/boussinesq-package.Rd
+e7c2eedaabda1fd1207ab0f3088f6137 *man/boussinesq-package.Rd
 bdef1288211f13ad1768ebfbd7a0bdbf *man/coefficient.song.solution.Rd

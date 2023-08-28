@@ -1,7 +1,7 @@
 # boussinesq R Package
 
-[![DOI](https://zenodo.org/badge/533688492.svg)](https://zenodo.org/badge/latestdoi/533688492)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8273197.svg)](https://doi.org/10.5281/zenodo.8273197)
 
 boussinesq
 =======
